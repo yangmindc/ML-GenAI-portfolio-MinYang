@@ -1,2 +1,2 @@
 # ML-GenAI-portfolio-MinYang
-# ML-GenAI Portfolio  Full-stack data scientist showcasing ML and GenAI expertise across NLP, LLMs, Deep Learning, and Graph Algorithms. Features end-to-end solutions with cross-domain applications, demonstrating technical proficiency in Python-driven AI development from research to production.
+# A curated collection of ML/GenAI projects showcasing my full-stack data science expertise across NLP, LLMs, GenAI, Deep Learning, Graph Algorithms etc. Features models, implementations, research papers, and cross-domain applications that bridge theory with real-world impact through Python-driven solutions.
